@@ -1,0 +1,7 @@
+data/
+reference/
+.venv/
+venv/
+__pycache__/
+.idea/
+train_answers.jsonl
